@@ -1,5 +1,3 @@
-Here’s a `README.md` for your RSA Encryption and Decryption program:
-
 ```md
 # RSA Encryption and Decryption Program
 
